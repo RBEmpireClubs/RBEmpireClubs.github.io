@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rbempireclubs/sitemap.xml
+Sitemap: https://rbempireclubs/sitemap.txt
