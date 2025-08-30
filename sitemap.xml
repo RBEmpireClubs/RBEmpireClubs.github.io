@@ -1,51 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
   <url>
     <loc>https://rbempireclubs.github.io/</loc>
-    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://rbempireclubs.github.io/sports.html</loc>
-    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://rbempireclubs.github.io/legal.html</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://rbempireclubs.github.io/blog.html</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://rbempireclubs.github.io/celebration.html</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rbempireclubs.github.io/news1.html</loc>
-    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rbempireclubs.github.io/news2.html</loc>
-    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rbempireclubs.github.io/news3.html</loc>
-    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
+
+  <!-- News Pages -->
+  <url><loc>https://rbempireclubs.github.io/news1.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/news2.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/news3.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/news4.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/news5.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/news6.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/news7.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/news8.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/news9.html</loc></url>
+
+  <!-- Blog Pages -->
+  <url><loc>https://rbempireclubs.github.io/blog1.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/blog2.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/blog3.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/blog4.html</loc></url>
+
+  <!-- Sports Pages -->
+  <url><loc>https://rbempireclubs.github.io/sports1.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/sports2.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/sports3.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/sports4.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/sports5.html</loc></url>
+
+  <!-- Other Pages -->
+  <url><loc>https://rbempireclubs.github.io/about.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/celebration.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/privacy.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/terms.html</loc></url>
+  <url><loc>https://rbempireclubs.github.io/disclaimer.html</loc></url>
+
 </urlset>
