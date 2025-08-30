@@ -1,4 +1,5 @@
 User-agent: *
-Disallow:
+Allow: /
 
+# Sitemap location
 Sitemap: https://rbempireclubs.github.io/sitemap.xml
